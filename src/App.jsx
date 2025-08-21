@@ -6,12 +6,14 @@ import Projects from "./Projects";
 
 export default function App() {
   return (
-    <div>
+    <div className="min-h-screen bg-white dark:bg-gray-900">
       <Nav />
-      <Hero />
-      <Projects />
-      <About />
-      <Contact />
+      <main>
+        <Hero />
+        <Projects />
+        <About />
+        <Contact />
+      </main>
     </div>
   );
 }

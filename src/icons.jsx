@@ -1,4 +1,4 @@
-import { SiPython, SiFirebase, SiVercel, SiReact, SiTailwindcss, SiPytorch, SiJavascript, SiDocker, SiTensorflow, SiGooglecolab, SiHuggingface, SiNodedotjs, SiExpress, SiOpenai } from "react-icons/si";
+import { SiPython, SiFirebase, SiVercel, SiReact, SiTailwindcss, SiPytorch, SiJavascript, SiDocker, SiTensorflow, SiGooglecolab, SiHuggingface, SiNodedotjs, SiExpress, SiOpenai, SiNextdotjs, SiTypescript, SiAmazonwebservices, SiMediapipe, SiStripe, SiSpringboot, SiSupabase } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 
 export const icons = {
@@ -17,5 +17,12 @@ export const icons = {
     Node: [<SiNodedotjs />, "text-green-600"],
     Express: [<SiExpress />, "text-zinc-800"],
     OpenAI: [<SiOpenai />, "text-purple-800"],
+    "Next.js": [<SiNextdotjs />, "text-white"],
+    TypeScript: [<SiTypescript />, "text-blue-500"],
+    AWS: [<SiAmazonwebservices />, "text-orange-500"],
+    MediaPipe: [<SiMediapipe />, "text-blue-500"],
+    Stripe: [<SiStripe />, "text-green-500"],
+    SpringBoot: [<SiSpringboot />, "text-green-500"],
+    Supabase: [<SiSupabase />, "text-blue-500"],
     // Add more icons as needed
 };
