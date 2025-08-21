@@ -51,7 +51,7 @@ export const projectData = [{
 }, {
     id: 4,
     title: "FundAFriend",
-    description: "A web app that allows users to donate to their friends and family in a secure and transparent way.",
+    description: "A simple way to give microgrants to friends and see exactly what your support helps them build..",
     techStacks: [
         "Next.js",
         "TypeScript",
@@ -62,4 +62,17 @@ export const projectData = [{
     ],
     role: "Full-stack development, UI design, and implementation.",
     link: {"View on GitHub" : "https://github.com/Ajith-Bondili/FundAFriend"}
+}, {
+    id: 5,
+    title: "MNIST Projects",
+    description: "A collection of projects that use the MNIST dataset to train and test machine learning models.",
+    techStacks: [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Huggingface",
+        "GoogleColab"
+    ],
+    role: "Research, implementation, and optimization.",
+    link: {"View on GitHub" : "https://github.com/anthonyzhao27/MNISTProjects"}
 }]
