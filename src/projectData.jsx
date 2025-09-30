@@ -10,7 +10,7 @@ export const projectData = [{
         "Docker",
     ],
     role: "User story mapping, UI design, and implementation.",
-    link: {"View on GitHub": "https://github.com/CSC207-NueralNova/group-project"}
+    link: {"View on GitHub": "https://github.com/CSC207-NueralNova/group-project", "Live Demo": "https://group-project-kappa.vercel.app/"}
 }, {
     id: 1,
     title: "Optimizing AnimateDiff",
@@ -39,17 +39,6 @@ export const projectData = [{
     link: {"View on GitHub" : "https://github.com/anthonyzhao27/stride-smart", "Live Demo" : "https://github.com/anthonyzhao27/stride-smart"}
 }, {
     id: 3,
-    title: "Running Form Analyzer",
-    description: "A web app that analyzes running form using MediaPipe Pose and gives feedback on the user's running form.",
-    techStacks: [
-        "Python",
-        "PyTorch",
-        "MediaPipe",
-    ],
-    role: "Research, implementation, and optimization.",
-    link: {"View on GitHub" : "https://github.com/anthonyzhao27/form-analyzer"}
-}, {
-    id: 4,
     title: "FundAFriend",
     description: "A simple way to give microgrants to friends and see exactly what your support helps them build..",
     techStacks: [
@@ -63,7 +52,7 @@ export const projectData = [{
     role: "Full-stack development, UI design, and implementation.",
     link: {"View on GitHub" : "https://github.com/Ajith-Bondili/FundAFriend"}
 }, {
-    id: 5,
+    id: 4,
     title: "MNIST Projects",
     description: "A collection of projects that use the MNIST dataset to train and test machine learning models.",
     techStacks: [
