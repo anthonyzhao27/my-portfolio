@@ -26,19 +26,10 @@ export default function About () {
                      
                      <div className="space-y-6 text-lg leading-relaxed text-gray-700 dark:text-gray-300">
                         <p>
-                           Hi, I'm Anthony, a Computer Science undergraduate with a strong interest in software development and AI. I enjoy working across the stack, from building responsive frontends with React and Tailwind to designing efficient backends with Node.js, serverless architectures, and modern databases. I'm particularly drawn to AI/ML, where I've explored projects like workout plan generators and running form analyzers that merge my technical skills with my passion for athletics.
+                           Hi, I'm Anthony, a Computer Science undergraduate with a strong interest in software development and AI. I enjoy music, cooking, and side projects that give me space to experiment and learn.
                         </p>
-                        
                         <p>
-                           Running plays a big role in my life, both as a sport and as a mindset. The consistency, problem-solving, and long-term focus it requires shape the way I approach development as well. I like finding connections between disciplines, and some of my most rewarding projects have come from blending my interests in technology, fitness, and creative problem-solving.
-                        </p>
-                        
-                        <p>
-                           Beyond coding and training, I enjoy music, cooking, and side projects that give me space to experiment and learn. At my core, I'm curious, adaptable, and driven to build tools and systems that make a real impact.
-                        </p>
-                        
-                        <p>
-                           I'm currently working on a full-stack project that blends AI and custom workout planning for long distance athletes. If you're interested in working together or have a cool idea, feel free to{' '}
+                           If you're interested in working together or have a cool idea, feel free to{' '}
                            <a 
                               href="#contact" 
                               className="font-semibold text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors duration-300 relative group"
