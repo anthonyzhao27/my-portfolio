@@ -37,31 +37,4 @@ export const projectData = [{
     ],
     role: "Full-stack development, AI model integration, and UI design.",
     link: {"View on GitHub" : "https://github.com/anthonyzhao27/stride-smart", "Live Demo" : "https://github.com/anthonyzhao27/stride-smart"}
-}, {
-    id: 3,
-    title: "FundAFriend",
-    description: "A simple way to give microgrants to friends and see exactly what your support helps them build..",
-    techStacks: [
-        "Next.js",
-        "TypeScript",
-        "Stripe",
-        "SpringBoot",
-        "Supabase",
-        "Tailwind",
-    ],
-    role: "Full-stack development, UI design, and implementation.",
-    link: {"View on GitHub" : "https://github.com/Ajith-Bondili/FundAFriend"}
-}, {
-    id: 4,
-    title: "MNIST Projects",
-    description: "A collection of projects that use the MNIST dataset to train and test machine learning models.",
-    techStacks: [
-        "Python",
-        "PyTorch",
-        "TensorFlow",
-        "Huggingface",
-        "GoogleColab"
-    ],
-    role: "Research, implementation, and optimization.",
-    link: {"View on GitHub" : "https://github.com/anthonyzhao27/MNISTProjects"}
 }]
