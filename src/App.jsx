@@ -1,19 +1,23 @@
-import Hero from "./Hero";
-import Nav from "./Nav";
-import About from "./About";
-import Contact from "./Contact";
-import Projects from "./Projects";
+import Nav from './Nav.jsx';
+import Hero from './Hero.jsx';
+import Experience from './Experience.jsx';
+import Projects from './Projects.jsx';
+import About from './About.jsx';
+import Contact from './Contact.jsx';
+import { site } from './data.js';
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-white dark:bg-gray-900">
+    <div className="page">
       <Nav />
       <main>
         <Hero />
+        <Experience />
         <Projects />
         <About />
         <Contact />
       </main>
+      <footer>Updated {site.updated}.</footer>
     </div>
   );
 }
