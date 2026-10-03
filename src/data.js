@@ -3,7 +3,7 @@ export const site = {
   greeting: "Hi, I'm Anthony.",
   intro: [
     'I study Computer Science and Statistics at the University of Toronto and build ML training infrastructure at Peripheral Labs.',
-    'Outside work I run long distances, cook, and listen to too much music.',
+    'Outside work I run long distances, play tennis, cook, and listen to too much music.',
   ],
   email: 'anthony.zhao05@gmail.com',
   github: 'https://github.com/anthonyzhao27',

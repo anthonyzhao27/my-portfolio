@@ -3,9 +3,9 @@ import { SectionHead } from './Row.jsx';
 
 const items = [
   { label: 'Email', text: site.email, href: `mailto:${site.email}` },
-  { label: 'GitHub', text: 'anthonyzhao27', href: site.github },
-  { label: 'LinkedIn', text: 'anthonyzhao27', href: site.linkedin },
-  { label: 'Resume', text: 'One page, PDF', href: site.resume },
+  { label: 'GitHub', text: site.github.replace('https://', ''), href: site.github },
+  { label: 'LinkedIn', text: site.linkedin.replace('https://', ''), href: site.linkedin },
+  { label: 'Resume', text: `anthonyzhao.vercel.app${site.resume}`, href: site.resume },
 ];
 
 export default function Contact() {
