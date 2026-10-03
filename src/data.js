@@ -1,8 +1,9 @@
 export const site = {
   name: ['Anthony', 'Zhao'],
-  tagline: [
-    'CS & Statistics at the University of Toronto.',
-    'Building ML training infrastructure at Peripheral Labs.',
+  greeting: "Hi, I'm Anthony.",
+  intro: [
+    'I study Computer Science and Statistics at the University of Toronto and build ML training infrastructure at Peripheral Labs.',
+    'Outside work I run long distances, cook, and listen to too much music.',
   ],
   email: 'anthony.zhao05@gmail.com',
   github: 'https://github.com/anthonyzhao27',
@@ -44,9 +45,4 @@ export const projects = [
       { label: 'Read the paper on IEEE Xplore', href: 'https://ieeexplore.ieee.org/document/10993780' },
     ],
   },
-];
-
-export const about = [
-  'I study Computer Science and Statistics at the University of Toronto, graduating in 2028. At Peripheral Labs I work on the infrastructure that ML training runs on.',
-  'Outside work: distance running, cooking, music.',
 ];
