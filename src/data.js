@@ -2,8 +2,8 @@ export const site = {
   name: ['Anthony', 'Zhao'],
   greeting: "Hi, I'm Anthony.",
   intro: [
-    'I study Computer Science and Statistics at the University of Toronto and build ML training infrastructure at Peripheral Labs.',
-    'Outside work I run long distances, play tennis, cook, and listen to too much music.',
+    'I study Computer Science and Statistics at the University of Toronto and am currently an ML Infra intern at Peripheral Labs.',
+    'Outside work I love being outside playing tennis, traveling, or just sidequesting.',
   ],
   email: 'anthony.zhao05@gmail.com',
   github: 'https://github.com/anthonyzhao27',
